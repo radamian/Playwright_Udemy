@@ -1,0 +1,36 @@
+Introduction
+What is Playwright?  Free & Open source library from Microsoft
+
+End-to-End testing of Modern web applications
+
+https://playwright.dev/
+
+
+
+Applications supported - Web browser apps , mobile web apps, API
+
+Languages supported - Javascript, Typescript, Java, Python & .Net(C#)
+
+Browsers supported - Chromium, WebKit(Safari) and Firefox( headed / headless)
+
+OS supported - Windows, MacOS, Linux , Support CI Runs
+
+Features of Playwright
+------
+Free , Opensource
+Multi-Browser , Multi-Language, Multi-OS support
+Easy setup and configuration
+Functional , API ,  Acceessibiity testing though third party plugin
+Built-in reporters, Custom reports
+CI CD , Docker support
+Recording, Debugging and Explore selectors
+Parallel testing
+Auto-wait
+Built-in assertions, Less flaky tests
+Test retry, logs, screenshots , videos
+Multi-tab and multi-window
+Frames and shadow DOM
+Emulate mobile devices
+Test parameterization
+Fast
+

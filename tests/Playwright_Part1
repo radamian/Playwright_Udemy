@@ -1,0 +1,28 @@
+Playwright
+------------
+
+Applications supported - Web browser apps , mobile web apps, API
+
+Languages supported - Javascript, Typescript, Java, Python & .Net(C#)
+
+Browsers supported - Chromium, WebKit(Safari) and Firefox( headed / headless)
+
+OS supported - Windows, MacOS, Linux , Support CI Runs
+
+Features playwright
+----------
+Free & open source
+Multi-Browser , Multi-Language, 
+Easy setup and configuration
+Functional, API, accessibility testing
+Built-in reporters, custom reports
+CI, CD , Docker
+Parallel testing
+Auto wait
+Built-in assertions
+Multi tab &multi window
+Frames , shadow dom
+Test parameter
+Emulate mobile devices
+Fast
+

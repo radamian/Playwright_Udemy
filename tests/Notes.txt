@@ -1,0 +1,20 @@
+
+npx playwright codegen
+
+npx playwright codegen -o tests/mytest.spec.js
+npx playwright codegen --output tests/mytest.spec.js
+
+
+npx playwright codegen --target javascript
+
+
+npx playwright codegen -b chromium
+npx playwright codegen --browser chromium
+
+
+
+npx playwright codegen --device "iPhone 13"
+
+
+npx playwright codegen --viewport-size "1280,720"
+
